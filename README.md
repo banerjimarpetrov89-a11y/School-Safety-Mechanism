@@ -1,0 +1,2 @@
+# School-Safety-Mechanism
+Aduit 
